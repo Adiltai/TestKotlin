@@ -29,4 +29,8 @@ fun main() {
             println("$num это не простое число")
             println("$num new branch developer")
             println("$num new branch developer")
+    println("$num new branch developer")
+    println("$num new branch developer")
+    println("$num new branch developer")
+    println("$num new branch developer")
     }
