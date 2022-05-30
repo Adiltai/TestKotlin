@@ -27,4 +27,5 @@ fun main() {
             println("$num это простое число")
         else
             println("$num это не простое число")
+            println("$num Да! это first commit")
     }
