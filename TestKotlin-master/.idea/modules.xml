@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/HKotlin.iml" filepath="$PROJECT_DIR$/HKotlin.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/TestKotlin-master.iml" filepath="$PROJECT_DIR$/TestKotlin-master.iml" />
->>>>>>> 6ed8475c172a4065becf9837a3359960cf9e93d3
     </modules>
   </component>
 </project>
