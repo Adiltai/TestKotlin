@@ -25,6 +25,7 @@ fun main() {
     println(revNumber(num3=reversed))
 }
 //функиця  reverse
+
 fun revNumber(num3:Int):Int{
     var reversed2 = 0
     var numm=num3
